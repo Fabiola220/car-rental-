@@ -101,9 +101,5 @@ Monitors active users and their status for real-time features.
 ## Conclusion
 GearUp provides an easy-to-use and efficient alternative for renting and selling vehicles. By streamlining the process of listing, communication, and booking, the platform directly connects sellers and buyers in a user-friendly way.
 
-## Contributors
-- Muhammad Safdar (22k-4304)
-- Abdul Rafiu (22k-4162)
-- Syed Mohammed Rayyan Imam (22k-4153)
 
 
